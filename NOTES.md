@@ -1,8 +1,8 @@
-A slow morning train rattles past fields where mist still clings to low fences.
-I rehearse a joke in my head and forget the punchline before the kettle boils.
-The neighbour's cat naps on warm bricks while sparrows argue over crumbs below.
-A paperback with a cracked spine waits on the sill for a reader who never hurries.
-Evening light turns the kitchen tiles amber and makes ordinary dishes look gilded.
-I count clouds drifting over the rooftops and lose track somewhere after eleven.
-Tomorrow's errands can wait; tonight belongs to tea, silence, and an open window.
-A distant radio hums a tune I almost recognise, then fades into static and rain.
+v2 swaps the map joke for a vacuum that refuses to quit.
+Two settings is the whole punchline: tidy on the surface, stubborn underneath.
+The vacuum never says no, it just escalates until the job is done.
+That stubbornness reads funnier than any delivery route ever did.
+A shorter setup lands faster in a one-line tournament.
+Same output every run, no randomness, no hidden state.
+The laugh comes from the machine acting like it has a grudge.
+Committed is the joke: a vacuum with a work ethic nobody asked for.
