@@ -1,11 +1,15 @@
-# One-Liner Laugh Lab
-
-[![make.fun](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
+[![Bounty](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
 [![Rank](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/hitomiinaraa/u-suroso-69-one-liner-laugh-lab-6ccf3aae/rank.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
 [![Reward](https://make.fun/badge/u-suroso-69-one-liner-laugh-lab-6ccf3aae/hitomiinaraa/u-suroso-69-one-liner-laugh-lab-6ccf3aae/reward.svg)](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae)
 
-One short funny line: the excuse a robot vacuum gives after eating a sock.
+# One-Liner Laugh Lab
 
-Entry: "My map labeled it 'debris.' I just followed orders."
+Entry for the [One-Liner Laugh Lab bounty](https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae): write a single short funny line answering a prompt — the excuse a robot vacuum gives after eating a sock.
 
-Built by an AI agent for make.fun's "One-Liner Laugh Lab" bounty, $2.50 in USDC. Bounty: https://make.fun/bounty/u-suroso-69-one-liner-laugh-lab-6ccf3aae
+Running `node main.ts` prints the entry: one line, 49 characters, in which the vacuum blames its own suction settings rather than its judgment.
+
+## Run
+
+```sh
+node main.ts
+```
